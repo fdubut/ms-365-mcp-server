@@ -9,7 +9,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: YOUR_GITHUB_USERNAME/ms-365-mcp-server
+  IMAGE_NAME: fdubut/ms-365-mcp-server
 
 jobs:
   build-and-push:
